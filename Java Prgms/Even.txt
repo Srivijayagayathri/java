@@ -1,0 +1,13 @@
+import java.util.*;
+class Even
+{
+	int a;
+	System.out.println("enter a value:");
+	a=sc.nextInt();
+	if(a%2==0)
+	{
+		System.out.println("a is even");
+	}
+	else
+
+	 System.out.println("a is not even");
